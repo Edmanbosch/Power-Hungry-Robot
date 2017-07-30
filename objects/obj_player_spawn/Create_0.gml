@@ -1,0 +1,1 @@
+instance_create_layer(x + grid_size/2, y + grid_size/2, layer, obj_player);
