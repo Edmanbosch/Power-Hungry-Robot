@@ -11,7 +11,7 @@ in_air = false;
 hsp = 0;
 vsp = 0;
 
-grav = base_grav; //0.45
+grav = base_grav;
 grav_max = 10;
 
 invincible = false;
